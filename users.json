@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": 2,
+    "name": "Vasya",
+    "City": "New-York",
+    "age": 23,
+    "statute": "not married"
+  }
+]
